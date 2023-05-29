@@ -1,0 +1,15 @@
+{
+    "name": "useman/hexlet",
+    "autoload": {
+        "psr-4": {
+            "Useman\\Hexlet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pavla36",
+            "email": "palshina.anyaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
